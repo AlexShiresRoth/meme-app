@@ -7,3 +7,25 @@
   align-items:center;
   justify-content:center;
 }
+
+i{
+  color:dodgerblue;
+  font-size:1.5rem;
+}
+
+.caption{
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+}
+.content-row{
+  display:flex;
+  flex-direction: row;
+}
+.icon-box{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:row;
+  padding:1rem;
+}
